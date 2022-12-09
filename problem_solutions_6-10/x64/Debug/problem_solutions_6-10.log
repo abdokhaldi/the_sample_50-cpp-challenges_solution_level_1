@@ -1,0 +1,4 @@
+﻿  problem_solutions_6-10.cpp
+C:\Users\Hp\source\repos\problem_solutions_6-10\problem_solutions_6-10.cpp(103,58): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hp\source\repos\problem_solutions_6-10\problem_solutions_6-10.cpp(123,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  problem_solutions_6-10.vcxproj -> C:\Users\Hp\source\repos\problem_solutions_6-10\x64\Debug\problem_solutions_6-10.exe
