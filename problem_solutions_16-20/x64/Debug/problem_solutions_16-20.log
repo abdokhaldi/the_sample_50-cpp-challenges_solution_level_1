@@ -1,0 +1,6 @@
+﻿  problem_solutions_16-20.cpp
+C:\Users\Hp\source\repos\problem_solutions_16-20\problem_solutions_16-20.cpp(16,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\problem_solutions_16-20\problem_solutions_16-20.cpp(43,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Hp\source\repos\problem_solutions_16-20\problem_solutions_16-20.cpp(59,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Hp\source\repos\problem_solutions_16-20\problem_solutions_16-20.cpp(76,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  problem_solutions_16-20.vcxproj -> C:\Users\Hp\source\repos\problem_solutions_16-20\x64\Debug\problem_solutions_16-20.exe
