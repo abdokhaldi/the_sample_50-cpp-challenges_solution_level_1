@@ -1,0 +1,7 @@
+﻿  broblem_solutions_31_35.cpp
+C:\Users\Hp\source\repos\broblem_solutions_31_35\broblem_solutions_31_35.cpp(88,20): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Hp\source\repos\broblem_solutions_31_35\broblem_solutions_31_35.cpp(91,20): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Hp\source\repos\broblem_solutions_31_35\broblem_solutions_31_35.cpp(93,20): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Hp\source\repos\broblem_solutions_31_35\broblem_solutions_31_35.cpp(96,20): warning C4305: 'return': truncation from 'double' to 'float'
+C:\Users\Hp\source\repos\broblem_solutions_31_35\broblem_solutions_31_35.cpp(103,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  broblem_solutions_31_35.vcxproj -> C:\Users\Hp\source\repos\broblem_solutions_31_35\x64\Debug\broblem_solutions_31_35.exe
