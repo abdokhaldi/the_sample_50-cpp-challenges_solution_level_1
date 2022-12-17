@@ -1,0 +1,8 @@
+﻿  problem_solutions_37-40.cpp
+C:\Users\Hp\source\repos\problem_solutions_37-40\problem_solutions_37-40.cpp(14,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hp\source\repos\problem_solutions_37-40\problem_solutions_37-40.cpp(20,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hp\source\repos\problem_solutions_37-40\problem_solutions_37-40.cpp(27,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hp\source\repos\problem_solutions_37-40\problem_solutions_37-40.cpp(67,13): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hp\source\repos\problem_solutions_37-40\problem_solutions_37-40.cpp(76,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hp\source\repos\problem_solutions_37-40\problem_solutions_37-40.cpp(77,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  problem_solutions_37-40.vcxproj -> C:\Users\Hp\source\repos\problem_solutions_37-40\x64\Debug\problem_solutions_37-40.exe
