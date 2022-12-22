@@ -1,0 +1,5 @@
+﻿  the_calculator.cpp
+C:\Users\Hp\source\repos\the_calculator\the_calculator.cpp(34,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hp\source\repos\the_calculator\the_calculator.cpp(35,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hp\source\repos\the_calculator\the_calculator.cpp(30): warning C4715: 'Calculate': not all control paths return a value
+  the_calculator.vcxproj -> C:\Users\Hp\source\repos\the_calculator\x64\Debug\the_calculator.exe
